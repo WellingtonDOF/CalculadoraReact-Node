@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-##Calculadora de Buteco
+## Calculadora de Buteco
 
 Esse é um projeto que permite realizar o calculo de gorjeta, total a pagar e total a pagar por pessoas.
 
@@ -14,22 +14,25 @@ O botão zerar é responsável por retirar a renderização do componente Calcul
 
 -----
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - React
 
 - Next.js
 
-##Instalação
+## Instalação
 
-Para instalar as dependências, use:
+Para instalar as dependências e executar o projeto, use:
 
-bash
-  npm install (caso não tenha a pasta .next e node_modules)
-  npx run dev (para rodar a aplicação)
+```bash
+#caso não tenha a pasta .next e node_mudeles
+npm install 
+
+#para executar o projeto
+npx run dev
+```
 
 Abra a aplicação pelo google no endereço [http://localhost:3000] para ver o resultado.
-
 
 [necessário ter o Node.js instalado no computador para que funcione!]
 
